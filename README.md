@@ -1,6 +1,6 @@
 ### The Market UN-Maker
 
-Please see [our full writeup here]("Exploiting illiquid markets with unlimited capital.pdf").
+Please see (our full writeup here)["Exploiting illiquid markets with unlimited capital.pdf"].
 
 Optiver has created a virtual exchange titled Optibook, where market participants are allowed to create automated trading bots. For Hack the Burgh 2021, Optiver provided three securities: AMAZON, GOOGLE, and TECH_BASKET. TECH_BASKET functions as a market basket, where the price of the security should be equivalent to the sum of AMAZON and GOOGLE’s individual prices. To our knowledge, Optiver had trading bots providing sufficient liquidity to AMAZON and GOOGLE, as well as trading TECH_BASKET towards the sum of AMAZON and GOOGLE when the prices diverged; however, market participants were asked to create more liquidity for TECH_BASKET.
 
